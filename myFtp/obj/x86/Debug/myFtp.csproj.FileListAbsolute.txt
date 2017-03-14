@@ -1,0 +1,14 @@
+D:\visual studio 2015\Projects\myFtp\myFtp\bin\Debug\myFtp.exe.config
+D:\visual studio 2015\Projects\myFtp\myFtp\bin\x86\Debug\myFtp.exe.config
+D:\visual studio 2015\Projects\myFtp\myFtp\bin\x86\Debug\myFtp.exe.manifest
+D:\visual studio 2015\Projects\myFtp\myFtp\bin\x86\Debug\myFtp.application
+D:\visual studio 2015\Projects\myFtp\myFtp\bin\x86\Debug\myFtp.exe
+D:\visual studio 2015\Projects\myFtp\myFtp\bin\x86\Debug\myFtp.pdb
+D:\visual studio 2015\Projects\myFtp\myFtp\obj\x86\Debug\myFtp.Form1.resources
+D:\visual studio 2015\Projects\myFtp\myFtp\obj\x86\Debug\myFtp.Properties.Resources.resources
+D:\visual studio 2015\Projects\myFtp\myFtp\obj\x86\Debug\myFtp.csproj.GenerateResource.Cache
+D:\visual studio 2015\Projects\myFtp\myFtp\obj\x86\Debug\myFtp.TrustInfo.xml
+D:\visual studio 2015\Projects\myFtp\myFtp\obj\x86\Debug\myFtp.exe.manifest
+D:\visual studio 2015\Projects\myFtp\myFtp\obj\x86\Debug\myFtp.application
+D:\visual studio 2015\Projects\myFtp\myFtp\obj\x86\Debug\myFtp.exe
+D:\visual studio 2015\Projects\myFtp\myFtp\obj\x86\Debug\myFtp.pdb
